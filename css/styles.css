@@ -237,8 +237,12 @@ button:focus       {
         background-color: #f4f4fd;
         height: 732px;
         min-width: 100%;
+        padding: 120px 0;
         }
-
+.container-team {
+    padding: 32px 0;
+    
+}
         .section-team-title {
             text-transform: capitalize;
             font-weight: 700;
@@ -257,7 +261,8 @@ button:focus       {
             display: flex;
             flex-direction: column;
             align-items: center; 
-            border: 264px 380px;
+            border: 264px 380px; 
+            border-radius: 0px 0px 4px 4px;
         }
          .list-team {
             display: flex;
