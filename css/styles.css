@@ -172,6 +172,7 @@ font-weight: 700;
     border-radius: 4px;
     display: block;
     margin: 0 auto;
+    padding: 0 15px;
     text-align: center;
     cursor: pointer;
     min-width: 169px;
