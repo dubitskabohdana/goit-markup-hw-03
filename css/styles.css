@@ -102,8 +102,7 @@ gap: 40px;
 margin-right: 332px;
 flex-grow: 1;
 align-items: center;
-
-
+padding: 24px 0;
 
       }
         
@@ -384,7 +383,7 @@ button:focus       {
         text-transform: uppercase;
         text-decoration: none;
         display: inline-block;
-        margin-left: 156px;
+        
         margin-bottom: 16px;
             
     }
